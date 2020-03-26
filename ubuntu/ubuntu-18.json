@@ -1,6 +1,3 @@
-// 20200326142346
-// https://raw.githubusercontent.com/codyde/packer-vsphere-builds/master/ubuntu-18/ubuntu-18.json
-
 {
   "builders": [
     {
